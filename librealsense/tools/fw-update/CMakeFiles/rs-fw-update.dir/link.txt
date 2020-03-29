@@ -1,0 +1,1 @@
+/usr/bin/c++   -pedantic -g -Wno-missing-field-initializers -Wno-switch -Wno-multichar -Wsequence-point -Wformat -Wformat-security -mssse3 -pthread  -rdynamic CMakeFiles/rs-fw-update.dir/rs-fw-update.cpp.o  -o rs-fw-update -Wl,-rpath,/home/rock/vision_package/librealsense: ../../librealsense2.so.2.32.1 

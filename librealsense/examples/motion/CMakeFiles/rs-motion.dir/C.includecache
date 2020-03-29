@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rock/vision_package/librealsense/third-party/realsense-file/lz4/lz4.c
+lz4.h
+/home/rock/vision_package/librealsense/third-party/realsense-file/lz4/lz4.h
+intrin.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+stdio.h
+-
+
+/home/rock/vision_package/librealsense/third-party/realsense-file/lz4/lz4.h
+stddef.h
+-
+stdint.h
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rock/vision_package/librealsense/common/fw/D4XX_FW_Image.c
+
+/home/rock/vision_package/librealsense/common/fw/D4XX_RC_Image.c
+
+/home/rock/vision_package/librealsense/common/fw/SR3XX_FW_Image.c
+
+/home/rock/vision_package/librealsense/common/fw/empty.c
+
+/home/rock/vision_package/librealsense/common/fw/target.c
+
